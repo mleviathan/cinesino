@@ -1,2 +1,2 @@
 # cinesino
-Application tofind nearest chinese's little shops
+Application to find nearest chinese's little shops
